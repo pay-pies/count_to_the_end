@@ -4,6 +4,9 @@ This is a site which is a countdown to the end of High Seas (January 31st). It c
 
 I used Vanilla HTML with CSS & Javascript within the style & script elements, edited in Microsoft VS Code (Visual Studio Code).
 
+### Note:
+This may only work for webkit browsers due to the -webkit- property used in the CSS code.
+
 ## How to Use:
 - Just watch it go down I guess
 - To remind you how much time you have got left
