@@ -1,6 +1,7 @@
 # Countdown To The End of High Seas ⬇️
 
 This is a site which is a countdown to the end of High Seas (January 31st). It can be accessed here: https://pay-pies.neetocode.com/site/qingrui-xie/01JGPEA1E1GD9DBCMQPCR6J0AB and has been hosted on neetocode.
+
 I used Vanilla HTML with CSS & Javascript within the style & script elements, edited in Microsoft VS Code (Visual Studio Code).
 
 ## How to Use:
