@@ -8,6 +8,8 @@ I used Vanilla HTML with CSS & Javascript within the style & script elements, ed
 - Just watch it go down I guess
 - To remind you how much time you have got left
 
+Time spent: 1 hour 5 mins ->🟩<-🟡🔴 (least time-consuming to most)
+
 ## Credits:
 - Most of the countdown javascript code: w3schools
 - The rest of the code: me
