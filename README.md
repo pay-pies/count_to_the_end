@@ -6,6 +6,6 @@ I used Vanilla HTML with CSS & Javascript within the style & script elements, ed
 ## Credits:
 - most of the countdown javascript code: w3schools
 - the rest of the code: me
-- background: i edited this image https://highseas.hackclub.com/background.svg using pixlr.e
+- background: i edited this image https://highseas.hackclub.com/background.svg using pixlr.com/editor
 - little watermark thing: i used this font https://www.fontspace.com/casual-tossed-font-f81 for the text and edited this image https://i.pinimg.com/736x/43/ed/66/43ed6691c8fe72d724156ee3949f69c6.jpg with it
 
