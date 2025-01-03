@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> </title>
+<style>
+
+    body{
+        background-image: url("https://cloud-lk8yamdi4-hack-club-bot.vercel.app/0background.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+
+    h2{
+        text-align: center;
+        font-size: 60px;
+        margin-top: 250px;
+        margin-left: 90px;
+        font-family: "Impact";
+        background: linear-gradient(rgb(240, 239, 239), rgb(164, 187, 238) ,rgb(86, 86, 162));
+        -webkit-background-clip: text;
+         background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 1px white;     
+    }
+    p{
+        font-size: 25px;
+        margin: 0px;
+        color: white; 
+        text-align: center;
+        font-family: 'Lucida Sans Unicode';
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-stroke: 0.5px rgb(113, 113, 161); 
+    }
+    mark{
+        background-color: rgb(142, 179, 255);
+        color: white;
+    }
+    #watermark{
+        opacity: 1;
+        height: 80px;
+    }
+</style>
+</head>
+<body>
+
+<img src="https://cloud-aded0g13q-hack-club-bot.vercel.app/0watermark.png" id="watermark">    
+<h2 id="demo"></h2>
+
+
+<script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Jan 31, 2025 00:00:00").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "High Seas ";
+  }
+}, 1000);
+</script>
+
+<p><mark>Better get cracking! Ship your projects before the end of January to get those shiny new doubloons!</mark></p>
+</body>
+</html>
