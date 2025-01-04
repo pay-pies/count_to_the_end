@@ -11,7 +11,7 @@ This may only work for webkit browsers due to the -webkit- property used in the 
 - Just watch it go down I guess
 - To remind you how much time you have got left
 
-Time spent: 1 hour 5 mins ->🟩<-🟡🔴 (least time-consuming to most)
+Time spent: 1 hour 15 mins ->🟩<-🟡🔴 (least time-consuming to most)
 
 ## Credits:
 - Most of the countdown javascript code: w3schools
